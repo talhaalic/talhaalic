@@ -11,7 +11,7 @@
   </pre>
   </code>
 
-  <h2>Muhammed Talha Alıcı</h2>
+  <h2>Talha Alıç</h2>
   <h4>Mühendislik & Siber Güvenlik Araştırmaları</h4>
 
   <br>
